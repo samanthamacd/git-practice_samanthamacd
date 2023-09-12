@@ -1,0 +1,9 @@
+90ad636 Update New Feature
+91f5db2 Update New Feature
+2f65281 Update New Feature
+61b89f3 Add Readme.md
+6ebee76 Add new_file.txt
+f186e7b Create feature file
+bdd49f7 Create gitignore
+99f162d Edit text files
+4120f67 create file_1.txt
